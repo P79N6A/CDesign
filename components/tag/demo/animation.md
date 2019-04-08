@@ -84,10 +84,11 @@ class EditableTagGroup extends React.Component {
         <div style={{ marginBottom: 16 }}>
           <TweenOneGroup 
             enter={{
-              scale: 0.8, opacity: 0, type: 'from', duration: 100,
+              scale: 0.8, opacity: 0, duration: 100,
               onComplete: (e) => {
                 e.target.style = '';
               },
+              type: 'from'
             }}
             leave={{ opacity: 0, width: 0, scale: 0, duration: 200 }}
             appear={false}
