@@ -11,7 +11,7 @@ import BannerImage from './BannerImage';
 import * as utils from '../utils';
 
 const loop = {
-  duration: 3000,
+  duration: 3500,
   yoyo: true,
   repeat: -1,
 };
@@ -87,8 +87,8 @@ class Banner extends React.PureComponent {
                   key="github-button"
                   size="large"
                   type="stargazers"
-                  namespace="ant-design"
-                  repo="ant-design"
+                  namespace="fridaymeng"
+                  repo="CDesign"
                 />
               )}
             </div>

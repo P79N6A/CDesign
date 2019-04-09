@@ -4,7 +4,7 @@ order: 0
 title: Resources
 ---
 
-Please find below some of the design resources and tools about Ant Design that we consider valuable. More of this is still being collected.
+Please find below some of the design resources and tools about CDesign that we consider valuable. More of this is still being collected.
 
 <div class="resource-cards">
   <a target="_blank" href="https://github.com/ant-design/ant-design/releases/download/resource/Ant.Design.Components.3.12.0.sketch" class="resource-card">
@@ -25,7 +25,7 @@ Please find below some of the design resources and tools about Ant Design that w
     </div>
     <div class="resource-card-content">
       <span class="resource-card-title">
-        Ant Design Landing
+        CDesign Landing
         <span class="resource-card-hot-badge">NEW</span>
       </span>
       <span class="resource-card-description">Landing Templates</span>
@@ -45,7 +45,7 @@ Please find below some of the design resources and tools about Ant Design that w
       <img width="65" src="https://gw.alipayobjects.com/zos/rmsportal/ibCZMxKsTUzDbwTEdcTC.svg">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design Pro</span>
+      <span class="resource-card-title">CDesign Pro</span>
       <span class="resource-card-description">Common Templates and Pages</span>
     </div>
   </a>
@@ -54,8 +54,8 @@ Please find below some of the design resources and tools about Ant Design that w
       <img width="50" src="https://gw.alipayobjects.com/zos/rmsportal/TXrKQUJBTuwSTGimGYYn.png">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design Library</span>
-      <span class="resource-card-description">A powerful Axure library of Ant Design</span>
+      <span class="resource-card-title">CDesign Library</span>
+      <span class="resource-card-description">A powerful Axure library of CDesign</span>
     </div>
   </a>
   <a target="_blank" href="http://kitchen.alipay.com" class="resource-card">
@@ -84,8 +84,8 @@ Please find below some of the design resources and tools about Ant Design that w
       <img width="72" src="https://img.xiaopiu.com/userImages/img753167822272f8.png">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design Prototype (xiaopiu)</span>
-      <span class="resource-card-description">Online Ant Design library and interactive prototype</span>
+      <span class="resource-card-title">CDesign Prototype (xiaopiu)</span>
+      <span class="resource-card-description">Online CDesign library and interactive prototype</span>
     </div>
   </a>
 </div>

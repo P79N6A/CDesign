@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Ant Design</h1>
+<h1 align="center">CDesign</h1>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ See [i18n](http://ant.design/docs/react/i18n).
 
 - [Home page](http://ant.design/)
 - [Components](http://ant.design/docs/react/introduce)
-- [Ant Design Pro](http://pro.ant.design/)
+- [CDesign Pro](http://pro.ant.design/)
 - [Change Log](CHANGELOG.en-US.md)
 - [rc-components](http://react-component.github.io/)
 - [Mobile UI](http://mobile.ant.design)
@@ -97,7 +97,7 @@ See [i18n](http://ant.design/docs/react/i18n).
 - [Versioning Release Note](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 - [FAQ](https://ant.design/docs/react/faq)
 - [CodeSandbox Template](https://u.ant.design/codesandbox-repro) for bug reports
-- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
+- [Awesome CDesign](https://github.com/websemantics/awesome-ant-design)
 - [Customize Theme](http://ant.design/docs/react/customize-theme)
 
 ## ⌨️ Development

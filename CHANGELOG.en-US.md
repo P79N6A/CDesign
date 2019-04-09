@@ -620,8 +620,8 @@ Component Fixes / Enhancements:
 
 `2018-11-09`
 
-- 🎉 [Ant Design Landing](https://landing.ant.design) released!
-- 📖 Published the new [sketch resource](https://github.com/ant-design/ant-design/releases/download/resource/Ant.Design.Components.Beta.3.10.5.sketch) of Ant Design.
+- 🎉 [CDesign Landing](https://landing.ant.design) released!
+- 📖 Published the new [sketch resource](https://github.com/ant-design/ant-design/releases/download/resource/Ant.Design.Components.Beta.3.10.5.sketch) of CDesign.
 - Button
   - 🐞 Fix the style of vertical align in small `Button.Group`. [#12972](https://github.com/ant-design/ant-design/issues/12972)
   - 🐞 Fix the style of vertical align with `href` prop. [#12978](https://github.com/ant-design/ant-design/issues/12978)
@@ -702,7 +702,7 @@ Component Fixes / Enhancements:
 
 `2018-10-12`
 
-- 🎉 [Ant Design Mobile of Angular](http://ng.mobile.ant.design/)(NG-ZORRO-Mobile) released!
+- 🎉 [CDesign Mobile of Angular](http://ng.mobile.ant.design/)(NG-ZORRO-Mobile) released!
 - 📝 Upgrade document `Real project with dva` to [Real project with umi](https://ant.design/docs/react/practical-projects).
 - Table
   - 🐞 Fixed clicking all columns will trigger sort behavior even without `sorter` props. [#12515](https://github.com/ant-design/ant-design/issues/12515)
@@ -829,7 +829,7 @@ Component Fixes / Enhancements:
 
 `2018-09-02`
 
-In September we brought an update for `3.9.0`. There are many new features in `3.9.0`, Ant Design is getting stronger and solider.
+In September we brought an update for `3.9.0`. There are many new features in `3.9.0`, CDesign is getting stronger and solider.
 
 - 🔥🔥🔥 In the `3.9.0` version, we redraw all the icons, adding two new categories, more than 90 new icons. And the bit adds a variety of styles to each icon. To this end, we have rewritten the Icon component, replaced the `fontface` icon with `SVG`, adding a number of features that allow us to quickly use new icons and styles.
   ![](https://gw.alipayobjects.com/zos/rmsportal/CVDHuodLwcDeyQBDoUIZ.png)
@@ -841,12 +841,12 @@ In September we brought an update for `3.9.0`. There are many new features in `3
   - 🌟 Added `component` attribute, you can externally pass a component to customize the control rendering result. [#11322](https://github.com/ant-design/ant-design/pull/11322)
   - 🌟 The `twoToneColor` property is added to control the theme color of the two-color icon. [#11971](https://github.com/ant-design/ant-design/pull/11971)
   - 🌟 Added static methods `Icon.getTowToneColor()` and `Icon.setTwoToneColor(...)` to globally get and set the theme color of all two-color icons. [#11971](https://github.com/ant-design/ant-design/pull/11971)
-  - 🌟 The new static method `Icon.createFromIconfontCN({...})` is added to make it easier to use icons hosted on [`iconfont.cn`](http://iconfont.cn/). For more usage, please refer to [Ant Design Pro - Introduction to Business Icons](https://pro.ant.design/docs/biz-icon). [#11322](https://github.com/ant-design/ant-design/pull/11322)
+  - 🌟 The new static method `Icon.createFromIconfontCN({...})` is added to make it easier to use icons hosted on [`iconfont.cn`](http://iconfont.cn/). For more usage, please refer to [CDesign Pro - Introduction to Business Icons](https://pro.ant.design/docs/biz-icon). [#11322](https://github.com/ant-design/ant-design/pull/11322)
 - 🔥 Added a new component [Skeleton](https://ant.design/components/skeleton/).
 - 🔥 Menu will automatically close up to fit width in `horizontal` mode.
 - 🔥 The `placement` of the drawer supports `top` and `bottom` to accommodate more scenes.
 
-In addition, our **Ant Design Pro 2.0.0** version has also been released simultaneously, please see [here](https://medium.com/ant-design/beautiful-and-powerful-ant-design-pro-2-0-release-51358da5af95) for details.
+In addition, our **CDesign Pro 2.0.0** version has also been released simultaneously, please see [here](https://medium.com/ant-design/beautiful-and-powerful-ant-design-pro-2-0-release-51358da5af95) for details.
 
 ### Bugfix/Feature：
 
@@ -1132,7 +1132,7 @@ Component Fixes / Enhancements:
 * 🌟 `Form`'s error message now can be customized with ReactNode. [#10136](https://github.com/ant-design/ant-design/issues/10136) [@lovekonakona](https://github.com/lovekonakona)
 * 🌟 `List` support customized configuration for position of pagination. [#10581](https://github.com/ant-design/ant-design/pull/10581) [@zheeeng](https://github.com/zheeeng)
 * 🌟 `Layout.Sider` now can be configured with `light` or `dark` theme. [#10142](https://github.com/ant-design/ant-design/issues/10142) [@pd4d10](https://github.com/pd4d10)
-* 🌟 Ant Design official site now supports offline mode. [#10625](https://github.com/ant-design/ant-design/issues/10625)
+* 🌟 CDesign official site now supports offline mode. [#10625](https://github.com/ant-design/ant-design/issues/10625)
 * 🌟 `Transfer` adding `style` and `operationStyle` props for further customization. [@eduludi](https://github.com/eduludi)
 * 🌟 `Message` adds a promisfied interface to handle callback. [#10421](https://github.com/ant-design/ant-design/issues/10421) [@zhujinxuan](https://github.com/zhujinxuan)
 * 🐞 Fix compilation issue with typescript@v2.9.1 . [#10729](https://github.com/ant-design/ant-design/issues/10729) [@karol-majewski](https://github.com/karol-majewski)
@@ -1503,7 +1503,7 @@ Component Fixes / Enhancements:
 
 - 📖 Published the new site and design guideline.
 - 📖 Updated the guideline of real project with dva to [roadhog 2.0](https://github.com/sorrycc/blog/issues/55). [5dcf1c0](https://github.com/ant-design/ant-design/commit/5dcf1c015fc2674adb09434bf766549d6f3f0022)
-- 📖 Published the new sketch resource of Ant Design 3.0. [22dfe88](https://github.com/ant-design/ant-design/commit/22dfe88ab043c1e116382fc96b7d78cabf125054)
+- 📖 Published the new sketch resource of CDesign 3.0. [22dfe88](https://github.com/ant-design/ant-design/commit/22dfe88ab043c1e116382fc96b7d78cabf125054)
 - 🐞 Fix contextMenu event for trigger prop in the TypeScript definition of Dropdown. [#8646](https://github.com/ant-design/ant-design/issues/8646) [@cjahv](https://github.com/cjahv)
 - 🐞 Fix HOC in Button not inserted space between Chinese words.
 - 🐞 Fix the style compatibility in IE 11 for List Component. [#8784](https://github.com/ant-design/ant-design/issues/8784)
@@ -1591,7 +1591,7 @@ Happy 2018 !~ 2018 2018 2018 coming!~~~
 
 `2017-12-04`
 
-Learn more in the [Ant Design 3.0 announcement post](https://medium.com/ant-design/announcing-ant-design-3-0-70e3e65eca0c).
+Learn more in the [CDesign 3.0 announcement post](https://medium.com/ant-design/announcing-ant-design-3-0-70e3e65eca0c).
 
 ### Major Changes
 

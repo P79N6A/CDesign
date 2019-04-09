@@ -1,5 +1,5 @@
 ---
-category: Ant Design
+category: CDesign
 order: 0
 title: Introduction
 ---
@@ -8,9 +8,9 @@ title: Introduction
   <img width="600" src="https://gw.alipayobjects.com/zos/rmsportal/lcamFWetlMgLkLmDUgmZ.png">
 </div>
 
-In the process of internal desktop applications development, many different design specs and implementations would be involved, which might cause designers and developers difficulties and duplication and reduce the efficiency of development. After massive project practice and summaries, Ant Design, a design language for background applications, is refined by Ant UED Team, which aims to uniform the user interface specs for internal background projects, lower the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
+In the process of internal desktop applications development, many different design specs and implementations would be involved, which might cause designers and developers difficulties and duplication and reduce the efficiency of development. After massive project practice and summaries, CDesign, a design language for background applications, is refined by Ant UED Team, which aims to uniform the user interface specs for internal background projects, lower the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
-Ant Design which is specially created for internal desktop applications, is committed to improving the experience of users and product designers. User interface designers and user experience designers, collectively, are considered as product designers, and the boundaries of product managers, interaction designers, visual designers, front-end developers and develop engineers are blurred. Taking advantage of unitary specifications, Ant Design makes design and prototype more simple and accessible for all project members, which comprehensively  promotes experience and development efficiency of background applications and products.
+CDesign which is specially created for internal desktop applications, is committed to improving the experience of users and product designers. User interface designers and user experience designers, collectively, are considered as product designers, and the boundaries of product managers, interaction designers, visual designers, front-end developers and develop engineers are blurred. Taking advantage of unitary specifications, CDesign makes design and prototype more simple and accessible for all project members, which comprehensively  promotes experience and development efficiency of background applications and products.
 
 ---
 
@@ -36,21 +36,21 @@ const LinkIcon = () => (
 const LinksList = () => (
   <ul>
     <li>
-      <a href="/docs/react/introduce" target="_blank">Ant Design of React</a>
+      <a href="/docs/react/introduce" target="_blank">CDesign of React</a>
       (official implementation)
     </li>
     <li>
       <a href="http://ng.ant.design" target="_blank">
-        NG-ZORRO - Ant Design of Angular<LinkIcon />
+        NG-ZORRO - CDesign of Angular<LinkIcon />
       </a>
     </li>
     <li>
       <a href="http://ng.mobile.ant.design" target="_blank">
-        NG-ZORRO-MOBILE - Ant Design Mobile of Angular<LinkIcon />
+        NG-ZORRO-MOBILE - CDesign Mobile of Angular<LinkIcon />
       </a>
     </li>
     <li>
-      <a href="http://vue.ant.design" target="_blank">Ant Design of Vue<LinkIcon /></a>
+      <a href="http://vue.ant.design" target="_blank">CDesign of Vue<LinkIcon /></a>
     </li>
     <li>
       <a href="https://github.com/FE-Driver/vue-beauty" target="_blank">
@@ -78,7 +78,7 @@ const LinksList = () => (
 ReactDOM.render(<LinksList />, mountNode);
 ```
 
-## Who's using Ant Design
+## Who's using CDesign
 
 - [Ant Financial](http://www.antgroup.com/index.htm?locale=en_US)
 - [Alibaba](http://www.alibaba.com/)
@@ -90,14 +90,14 @@ ReactDOM.render(<LinksList />, mountNode);
 - [Eleme](https://www.ele.me/)
 - [Other Users](https://github.com/ant-design/ant-design/issues/477)
 
-> If your company or products use Ant Design, and you'd like to be added to this growing list, click [here](https://github.com/ant-design/ant-design/issues/477) to leave us a message.
+> If your company or products use CDesign, and you'd like to be added to this growing list, click [here](https://github.com/ant-design/ant-design/issues/477) to leave us a message.
 
 ## Words From Community
 
 - Hacknews: [Show HN: Antd – A set of high-quality React components](https://news.ycombinator.com/item?id=13053137)
-- Alligator: [Crafting Beautiful UIs in React Using Ant Design](https://alligator.io/react/beautiful-uis-ant-design/)
+- Alligator: [Crafting Beautiful UIs in React Using CDesign](https://alligator.io/react/beautiful-uis-ant-design/)
 - Hackernoon: [Interesting JavaScript Libraries born in China](https://hackernoon.com/interesting-javascript-libraries-born-in-china-d50d1bb81355)
 
 ## How to Contribute
 
-Contributions to Ant Design on Github are welcomed! Whether you have questions, concerns, or suggestions for improving Ant Design - please don't hesitate to reach out to us [here](https://github.com/ant-design/ant-design/issues).
+Contributions to CDesign on Github are welcomed! Whether you have questions, concerns, or suggestions for improving CDesign - please don't hesitate to reach out to us [here](https://github.com/ant-design/ant-design/issues).

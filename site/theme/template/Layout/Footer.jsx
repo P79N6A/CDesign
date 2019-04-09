@@ -75,7 +75,7 @@ class Footer extends React.Component {
         <div>
           <img
             src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-            alt="Ant Design"
+            alt="CDesign"
           />
           <p>
             {messages['app.publish.greeting']}
@@ -112,21 +112,21 @@ class Footer extends React.Component {
                   <FormattedMessage id="app.footer.resources" />
                 </h2>
                 <div>
-                  <a href="http://pro.ant.design">Ant Design Pro</a>
+                  <a href="http://pro.ant.design">CDesign Pro</a>
                 </div>
                 <div>
-                  <a href="http://mobile.ant.design">Ant Design Mobile</a>
+                  <a href="http://mobile.ant.design">CDesign Mobile</a>
                 </div>
                 <div>
                   <a href="http://ng.ant.design">NG-ZORRO</a>
                   <span> - </span>
-                  <span>Ant Design of Angular</span>
+                  <span>CDesign of Angular</span>
                 </div>
                 <div>
                   <a href="http://ng.mobile.ant.design">NG-ZORRO-MOBILE</a>
                 </div>
                 <div>
-                  <a href="http://vue.ant.design">Ant Design Vue</a>
+                  <a href="http://vue.ant.design">CDesign Vue</a>
                 </div>
                 <div>
                   <a target="_blank" rel="noopener noreferrer" href="http://kitchen.alipay.com">
@@ -137,7 +137,7 @@ class Footer extends React.Component {
                 </div>
                 <div>
                   <a target="_blank" rel="noopener noreferrer" href="http://landing.ant.design">
-                    Ant Design Landing
+                    CDesign Landing
                   </a>
                   <span> - </span>
                   <FormattedMessage id="app.footer.landing" />
@@ -397,10 +397,7 @@ class Footer extends React.Component {
           </Row>
         </div>
         <div className="bottom-bar">
-          Made with <span className="heart">❤</span> by
-          <a target="_blank" rel="noopener noreferrer" href="https://xtech.antfin.com">
-            <FormattedMessage id="app.footer.company" />
-          </a>
+          Made with CDesign.
         </div>
       </footer>
     );

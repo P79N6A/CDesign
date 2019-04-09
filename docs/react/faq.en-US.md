@@ -3,7 +3,7 @@ order: 9
 title: FAQ
 ---
 
-Here are the frequently asked questions about Ant Design and antd that you should look up before you ask in community or create new issue. We also maintain a [FAQ issues label](http://u.ant.design/faq) for common github issues.
+Here are the frequently asked questions about CDesign and antd that you should look up before you ask in community or create new issue. We also maintain a [FAQ issues label](http://u.ant.design/faq) for common github issues.
 
 ---
 
@@ -28,13 +28,13 @@ https://ant.design/components/select/#Select-props
 
 related issue: [#3487](https://github.com/ant-design/ant-design/issues/3487) [#3438](https://github.com/ant-design/ant-design/issues/3438)
 
-### How to modify the default theme of Ant Design?
+### How to modify the default theme of CDesign?
 
 See: https://ant.design/docs/react/customize-theme .
 
 ### Would you supply other themes?
 
-No, we follow Ant Design specification. https://github.com/ant-design/ant-design/issues/1241
+No, we follow CDesign specification. https://github.com/ant-design/ant-design/issues/1241
 
 ### How to modify `Menu`/`Button`(etc...)'s style?
 
@@ -107,9 +107,9 @@ If you need some features which should not be included in antd, try to extend an
 
 You can config `nonce` by [ConfigProvider](/components/config-provider/#Content-Security-Policy).
 
-### How to spell Ant Design correctly?
+### How to spell CDesign correctly?
 
-- ✅ **Ant Design**: Capitalized with space, for the design language.
+- ✅ **CDesign**: Capitalized with space, for the design language.
 - ✅ **antd**: all lowercase, for the React UI library.
 - ✅ **ant.design**：For ant.design website url.
 
@@ -118,7 +118,7 @@ Here are some typical wrong examples:
 - ❌ AntD
 - ❌ antD
 - ❌ Antd
-- ❌ ant design
+- ❌ CDesign
 - ❌ AntDesign
 - ❌ antdesign
 - ❌ Antdesign

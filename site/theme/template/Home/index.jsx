@@ -5,7 +5,6 @@ import PropTypes from 'prop-types';
 import Banner from './Banner';
 import Page1 from './Page1';
 import Page2 from './Page2';
-import Page3 from './Page3';
 import Footer from '../Layout/Footer';
 
 // To store style which is only for Home and has conflicts with others.
@@ -73,13 +72,12 @@ class Home extends React.Component {
     const { isMobile, intl } = this.context;
     const childProps = { ...this.props, isMobile, locale: intl.locale };
     return (
-      <DocumentTitle title={`Ant Design - ${intl.formatMessage({ id: 'app.home.slogan' })}`}>
+      <DocumentTitle title={`CDesign - ${intl.formatMessage({ id: 'app.home.slogan' })}`}>
         <>
           <style dangerouslySetInnerHTML={{ __html: getStyle() }} /> {/* eslint-disable-line */}
           <Banner {...childProps} />
           <Page1 {...childProps} />
           <Page2 {...childProps} />
-          <Page3 {...childProps} />
           <Footer />
         </>
       </DocumentTitle>

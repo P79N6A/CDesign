@@ -3,13 +3,13 @@ order: 2
 title: Real project with umi and dva
 ---
 
-In real project development, you might need a data flow solution like Redux or MobX. Ant Design React is a UI library that can be used with any data flow solution and application framework within the React ecosystem. We have launched dva based on Redux, as well as a pluggable enterprise application framework umi, which is recommended for use in your projects.
+In real project development, you might need a data flow solution like Redux or MobX. CDesign React is a UI library that can be used with any data flow solution and application framework within the React ecosystem. We have launched dva based on Redux, as well as a pluggable enterprise application framework umi, which is recommended for use in your projects.
 
 Dva is a lightweight data flow solution based on Redux. The concept comes from elm. It supports side effects, hot module replacement, dynamic loading, react-native, SSR, etc. It has been widely used in production.
 
 And [umi](http://umijs.org/) is a routing-based framework that supports [next.js-like conventional routing](https://umijs.org/guide/router.html) and various advanced routing functions, such as [routing-level on-demand loading](https://umijs.org/en/plugin/umi-plugin-react.html#dynamicimport). With a complete [plugin system](https://umijs.org/plugin/) that covers every life cycle from source code to build product, umi is able to support various functional extensions and business needs.
 
-> You may also be interested in [Ant Design Pro] (https://pro.ant.design/), an Out-of-box UI solution for enterprise applications based on umi, dva and ant design.
+> You may also be interested in [CDesign Pro] (https://pro.ant.design/), an Out-of-box UI solution for enterprise applications based on umi, dva and CDesign.
 
 This article will guide you to create a simple application from zero using umi, dva and antd.
 

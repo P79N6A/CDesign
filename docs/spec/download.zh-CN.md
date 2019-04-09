@@ -4,7 +4,7 @@ order: 0
 title: 设计资源
 ---
 
-这里提供 Ant Design 相关设计资源和设计工具的下载，更多设计资源正在整理和完善中。
+这里提供 CDesign 相关设计资源和设计工具的下载，更多设计资源正在整理和完善中。
 
 - 新版本 Sketch Symbols 组件反馈地址：[🦜 反馈地址](https://www.yuque.com/kitchen/topics/51)
 
@@ -35,7 +35,7 @@ title: 设计资源
       <img width="65" src="https://gw.alipayobjects.com/zos/rmsportal/ibCZMxKsTUzDbwTEdcTC.svg">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design Pro</span>
+      <span class="resource-card-title">CDesign Pro</span>
       <span class="resource-card-description">典型页面 + 通用业务模板</span>
     </div>
   </a>
@@ -44,8 +44,8 @@ title: 设计资源
       <img width="50" src="https://gw.alipayobjects.com/zos/rmsportal/TXrKQUJBTuwSTGimGYYn.png">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design Library</span>
-      <span class="resource-card-description">一套强大的 Ant Design 的 Axure 部件库</span>
+      <span class="resource-card-title">CDesign Library</span>
+      <span class="resource-card-description">一套强大的 CDesign 的 Axure 部件库</span>
     </div>
   </a>
   <a target="_blank" href="http://kitchen.alipay.com" class="resource-card">
@@ -66,7 +66,7 @@ title: 设计资源
     </div>
     <div class="resource-card-content">
       <span class="resource-card-title">
-        Ant Design Landing
+        CDesign Landing
         <span class="resource-card-hot-badge">NEW</span>
       </span>
       <span class="resource-card-description">首页模板集</span>
@@ -86,8 +86,8 @@ title: 设计资源
       <img width="72" src="https://img.xiaopiu.com/userImages/img753167822272f8.png">
     </div>
     <div class="resource-card-content">
-      <span class="resource-card-title">Ant Design 原型（xiaopiu）</span>
-      <span class="resource-card-description">可在线编辑的 Ant Design 组件库和交互原型</span>
+      <span class="resource-card-title">CDesign 原型（xiaopiu）</span>
+      <span class="resource-card-description">可在线编辑的 CDesign 组件库和交互原型</span>
     </div>
   </a>
 </div>

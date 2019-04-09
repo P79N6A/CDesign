@@ -198,7 +198,7 @@ export default class Header extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Ant Design of Angular
+              CDesign of Angular
             </a>
           </Menu.Item>
           <Menu.Item key="vue">
@@ -208,7 +208,7 @@ export default class Header extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Ant Design of Vue
+              CDesign of Vue
             </a>
           </Menu.Item>
           {isZhCN ? (
@@ -219,7 +219,7 @@ export default class Header extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Ant Design 实战教程
+                CDesign 实战教程
               </a>
             </Menu.Item>
           ) : null}
@@ -227,7 +227,7 @@ export default class Header extends React.Component {
       </Menu>,
     ];
 
-    const searchPlaceholder = locale === 'zh-CN' ? '在 ant.design 中搜索' : 'Search in ant.design';
+    const searchPlaceholder = locale === 'zh-CN' ? '搜索' : 'Search';
     return (
       <header id="header" className={headerClassName}>
         {isMobile && (
@@ -246,14 +246,7 @@ export default class Header extends React.Component {
         <Row>
           <Col xxl={4} xl={5} lg={5} md={5} sm={24} xs={24}>
             <Link to={utils.getLocalizedPathname('/', isZhCN)} id="logo">
-              <img
-                alt="logo"
-                src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-              />
-              <img
-                alt="Ant Design"
-                src="https://gw.alipayobjects.com/zos/rmsportal/DkKNubTaaVsKURhcVGkh.svg"
-              />
+              Home
               <Santa />
             </Link>
           </Col>

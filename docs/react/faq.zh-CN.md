@@ -3,7 +3,7 @@ order: 9
 title: FAQ
 ---
 
-以下整理了一些 Ant Design 社区常见的问题和官方答复，在提问之前建议找找有没有类似的问题。此外我们也维护了一个反馈较多 [FAQ issues 标签](http://u.ant.design/faq) 亦可参考。
+以下整理了一些 CDesign 社区常见的问题和官方答复，在提问之前建议找找有没有类似的问题。此外我们也维护了一个反馈较多 [FAQ issues 标签](http://u.ant.design/faq) 亦可参考。
 
 ---
 
@@ -28,15 +28,15 @@ https://ant.design/components/select/#Select-props
 
 相关 issue：[#3487](https://github.com/ant-design/ant-design/issues/3487) [#3438](https://github.com/ant-design/ant-design/issues/3438)
 
-### 如何修改 Ant Design 的默认主题？
+### 如何修改 CDesign 的默认主题？
 
 参考：https://ant.design/docs/react/customize-theme 。
 
 ### 你们会提供其他主题吗？
 
-不，我们遵守 Ant Design 设计规范。https://github.com/ant-design/ant-design/issues/1241 。
+不，我们遵守 CDesign 设计规范。https://github.com/ant-design/ant-design/issues/1241 。
 
-### 如何修改 Ant Design 组件的默认样式？
+### 如何修改 CDesign 组件的默认样式？
 
 你可以覆盖它们的样式，但是我们不推荐这么做。antd 是一系列 React 组件，但同样是一套设计规范。
 
@@ -105,9 +105,9 @@ import { Menu, Breadcrumb, Icon } from 'antd';
 
 你可以通过 [ConfigProvider](/components/config-provider/#Content-Security-Policy) 来配置 `nonce` 属性。
 
-### 如何正确的拼写 Ant Design？
+### 如何正确的拼写 CDesign？
 
-- ✅ **Ant Design**：用空格分隔的首字母大写单词，指代设计语言。
+- ✅ **CDesign**：用空格分隔的首字母大写单词，指代设计语言。
 - ✅ **antd**：全小写，指代 React UI 组件库。
 - ✅ **ant.design**：特指 ant.design 网站网址。
 
@@ -116,7 +116,7 @@ import { Menu, Breadcrumb, Icon } from 'antd';
 - ❌ AntD
 - ❌ antD
 - ❌ Antd
-- ❌ ant design
+- ❌ CDesign
 - ❌ AntDesign
 - ❌ antdesign
 - ❌ Antdesign

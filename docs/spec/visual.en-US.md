@@ -3,7 +3,7 @@ order: 4
 title: Visualization
 ---
 
-The visual language is based on a set of design guidelines with data visualization features derived from the intermediate design language Ant Design, which makes the data expression more in line with the user's psychology, helping the “designer” to incubate visual solutions with more business characteristics to meet the individualization. Design requirements, shielding unnecessary design differences and implementation costs, thus liberating the "designer" and front-end R&D resources, and achieving comprehensive improvement of data chart development efficiency.
+The visual language is based on a set of design guidelines with data visualization features derived from the intermediate design language CDesign, which makes the data expression more in line with the user's psychology, helping the “designer” to incubate visual solutions with more business characteristics to meet the individualization. Design requirements, shielding unnecessary design differences and implementation costs, thus liberating the "designer" and front-end R&D resources, and achieving comprehensive improvement of data chart development efficiency.
 
 At the same time, this is a dynamically updated design document, your reading and feedback is the driving force for us to continue to advance, [GitHub feedback address] (https://github.com/antvis/site/issues)
 

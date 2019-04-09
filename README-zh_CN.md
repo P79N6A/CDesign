@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Ant Design</h1>
+<h1 align="center">CDesign</h1>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 
 - [首页](http://ant.design/)
 - [组件库](http://ant.design/docs/react/introduce)
-- [Ant Design Pro](http://pro.ant.design/)
+- [CDesign Pro](http://pro.ant.design/)
 - [更新日志](CHANGELOG.en-US.md)
 - [React 底层基础组件](http://react-component.github.io/)
 - [移动端组件](http://mobile.ant.design)
@@ -98,7 +98,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 - [版本发布规则](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 - [常见问题](https://ant.design/docs/react/faq-cn)
 - [CodeSandbox 模板](https://u.ant.design/codesandbox-repro) for bug reports
-- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
+- [Awesome CDesign](https://github.com/websemantics/awesome-ant-design)
 - [定制主题](http://ant.design/docs/react/customize-theme-cn)
 
 ## ⌨️ 本地开发

@@ -1,9 +1,9 @@
 ---
 order: 0
-title: Ant Design of React
+title: CDesign of React
 ---
 
-`antd` 是基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。
+`antd` 是基于 CDesign 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。
 
 <div class="pic-plus">
   <img width="150" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
@@ -123,7 +123,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 
 - [首页](http://ant.design/)
 - [组件库](/docs/react/introduce)
-- [Ant Design Pro](http://pro.ant.design/)
+- [CDesign Pro](http://pro.ant.design/)
 - [更新日志](/changelog)
 - [脚手架市场](http://scaffold.ant.design)
 - [React 底层基础组件](http://react-component.github.io/)
@@ -134,7 +134,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 - [版本发布规则](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 - [常见问题](/docs/react/faq)
 - [CodeSandbox 模板](https://u.ant.design/codesandbox-repro) for bug reports
-- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
+- [Awesome CDesign](https://github.com/websemantics/awesome-ant-design)
 - [定制主题](/docs/react/customize-theme)
 
 ## 谁在使用
@@ -148,7 +148,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 - [滴滴](http://www.xiaojukeji.com/)
 - [饿了么](https://www.ele.me/)
 
-> 如果你的公司和产品使用了 Ant Design，欢迎到 [这里](https://github.com/ant-design/ant-design/issues/477) 留言。
+> 如果你的公司和产品使用了 CDesign，欢迎到 [这里](https://github.com/ant-design/ant-design/issues/477) 留言。
 
 ## 如何贡献
 
